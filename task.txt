@@ -1,0 +1,2 @@
+task i silmek duymesi olsun
+ve action lu silinsin
